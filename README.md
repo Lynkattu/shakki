@@ -1,0 +1,3 @@
+Shakki
+
+konsolissa toimiva shakki.
